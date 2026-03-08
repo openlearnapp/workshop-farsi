@@ -1,0 +1,7 @@
+workshops:
+  - folder: farsi
+    code: fa-IR
+    title: "Farsi"
+    description: "5 Lektionen zum Erlernen der wichtigsten Wörter und Ausdrücke auf Farsi (Persisch)."
+    color: "270 40% 93%"
+    primaryColor: "270 65% 50%"
