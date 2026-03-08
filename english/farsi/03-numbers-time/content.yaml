@@ -1,0 +1,80 @@
+version: 1
+number: 3
+title: "Numbers and Time"
+description: "Numbers from 1 to 20, days of the week and telling time in Farsi"
+sections:
+  - title: "Numbers 1 to 10"
+    explanation: |
+      **Persian numbers** have their own numeral system. The numbers are written from left
+      to right, unlike Persian text. Here are the numbers 1 to 10.
+    examples:
+      - q: "یک / ۱"
+        a: "One (1)"
+        rel:
+          - ["یک", "one", "number"]
+      - q: "دو / ۲"
+        a: "Two (2)"
+        rel:
+          - ["دو", "two", "number"]
+      - q: "سه / ۳"
+        a: "Three (3)"
+        rel:
+          - ["سه", "three", "number"]
+      - q: "چهار / ۴"
+        a: "Four (4)"
+        rel:
+          - ["چهار", "four", "number"]
+      - q: "پنج / ۵"
+        a: "Five (5)"
+        rel:
+          - ["پنج", "five", "number"]
+  - title: "Numbers 11 to 20"
+    explanation: |
+      **Numbers from 11** are formed as compounds in Farsi, similar to English.
+    examples:
+      - q: "یازده / ۱۱"
+        a: "Eleven (11)"
+        rel:
+          - ["یازده", "eleven", "number"]
+      - q: "دوازده / ۱۲"
+        a: "Twelve (12)"
+        rel:
+          - ["دوازده", "twelve", "number"]
+      - q: "سیزده / ۱۳"
+        a: "Thirteen (13)"
+        rel:
+          - ["سیزده", "thirteen", "number"]
+      - q: "پانزده / ۱۵"
+        a: "Fifteen (15)"
+        rel:
+          - ["پانزده", "fifteen", "number"]
+      - q: "بیست / ۲۰"
+        a: "Twenty (20)"
+        rel:
+          - ["بیست", "twenty", "number"]
+  - title: "Days of the Week and Time"
+    explanation: |
+      **The Iranian calendar** starts the week on Saturday (شنبه).
+      Friday is the day off, comparable to Sunday in Western countries.
+    examples:
+      - q: "شنبه"
+        a: "Saturday"
+        rel:
+          - ["شنبه", "Saturday", "day of the week"]
+      - q: "یکشنبه"
+        a: "Sunday"
+        rel:
+          - ["یکشنبه", "Sunday", "day of the week"]
+      - q: "دوشنبه"
+        a: "Monday"
+        rel:
+          - ["دوشنبه", "Monday", "day of the week"]
+      - q: "جمعه"
+        a: "Friday"
+        rel:
+          - ["جمعه", "Friday", "day of the week, day off"]
+      - q: "ساعت چند است؟"
+        a: "What time is it?"
+        rel:
+          - ["ساعت", "clock / hour", "noun"]
+          - ["چند", "how many", "question word"]

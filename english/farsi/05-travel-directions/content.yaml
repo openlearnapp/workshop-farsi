@@ -1,0 +1,86 @@
+version: 1
+number: 5
+title: "Travel and Directions"
+description: "Directions, transportation and important travel expressions in Farsi"
+sections:
+  - title: "Directions and Places"
+    explanation: |
+      **Directions** are essential when traveling. Here you will learn
+      how to ask for directions and understand them in Farsi.
+    examples:
+      - q: "راست"
+        a: "Right"
+        rel:
+          - ["راست", "right", "direction"]
+      - q: "چپ"
+        a: "Left"
+        rel:
+          - ["چپ", "left", "direction"]
+      - q: "مستقیم"
+        a: "Straight ahead"
+        rel:
+          - ["مستقیم", "straight / direct", "direction"]
+      - q: "کجاست؟ ... "
+        a: "Where is ...?"
+        rel:
+          - ["کجا", "where", "question word"]
+          - ["است", "is", "verb to be"]
+      - q: "نزدیک"
+        a: "Near / Close"
+        rel:
+          - ["نزدیک", "near / close", "adjective"]
+      - q: "دور"
+        a: "Far"
+        rel:
+          - ["دور", "far", "adjective"]
+  - title: "Transportation"
+    explanation: |
+      **Transportation in Iran** – Taxis, buses and the metro are the
+      most common means of transport in Iranian cities.
+    examples:
+      - q: "تاکسی"
+        a: "Taxi"
+        rel:
+          - ["تاکسی", "taxi", "noun"]
+      - q: "اتوبوس"
+        a: "Bus"
+        rel:
+          - ["اتوبوس", "bus", "noun"]
+      - q: "مترو"
+        a: "Metro / Subway"
+        rel:
+          - ["مترو", "metro / subway", "noun"]
+      - q: "فرودگاه"
+        a: "Airport"
+        rel:
+          - ["فرودگاه", "airport", "noun"]
+      - q: "ایستگاه"
+        a: "Station / Stop"
+        rel:
+          - ["ایستگاه", "station / stop", "noun"]
+  - title: "Important Travel Phrases"
+    explanation: |
+      **Useful phrases for travelers** – These expressions will help you
+      find your way around in Iran and ask for help.
+    examples:
+      - q: "من گم شده‌ام"
+        a: "I am lost"
+        rel:
+          - ["من", "I", "pronoun"]
+          - ["گم شده‌ام", "I am lost", "verb"]
+      - q: "می‌توانید کمکم کنید؟"
+        a: "Can you help me?"
+        rel:
+          - ["می‌توانید", "can you", "verb"]
+          - ["کمک", "help", "noun"]
+      - q: "هتل کجاست؟"
+        a: "Where is the hotel?"
+        rel:
+          - ["هتل", "hotel", "noun"]
+          - ["کجاست", "where is", "question word + verb"]
+      - q: "لطفاً آهسته‌تر صحبت کنید"
+        a: "Please speak more slowly"
+        rel:
+          - ["آهسته‌تر", "more slowly", "comparative"]
+          - ["صحبت کنید", "speak", "verb"]
+          - ["لطفاً", "please", "polite form"]

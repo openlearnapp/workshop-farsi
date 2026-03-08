@@ -1,0 +1,89 @@
+version: 1
+number: 2
+title: "Everyday Words"
+description: "Commonly used words and expressions in everyday Persian"
+sections:
+  - title: "Basic Words"
+    explanation: |
+      **Basic words** form the foundation of any language.
+      You will constantly need these simple words in Farsi.
+    examples:
+      - q: "بله"
+        a: "Yes"
+        rel:
+          - ["بله", "yes", "formal"]
+      - q: "نه / نخیر"
+        a: "No"
+        rel:
+          - ["نه", "no", "informal"]
+          - ["نخیر", "no", "formal"]
+      - q: "خوب"
+        a: "Good"
+        rel:
+          - ["خوب", "good", "adjective"]
+      - q: "بد"
+        a: "Bad"
+        rel:
+          - ["بد", "bad", "adjective"]
+      - q: "بزرگ"
+        a: "Big"
+        rel:
+          - ["بزرگ", "big", "adjective"]
+      - q: "کوچک"
+        a: "Small"
+        rel:
+          - ["کوچک", "small", "adjective"]
+  - title: "Colors"
+    explanation: |
+      **Colors in Farsi** – Colors are useful words for daily life,
+      shopping and descriptions.
+    examples:
+      - q: "قرمز"
+        a: "Red"
+        rel:
+          - ["قرمز", "red", "color"]
+      - q: "آبی"
+        a: "Blue"
+        rel:
+          - ["آبی", "blue", "color"]
+      - q: "سبز"
+        a: "Green"
+        rel:
+          - ["سبز", "green", "color"]
+      - q: "سفید"
+        a: "White"
+        rel:
+          - ["سفید", "white", "color"]
+      - q: "سیاه"
+        a: "Black"
+        rel:
+          - ["سیاه", "black", "color"]
+  - title: "Family Members"
+    explanation: |
+      **Family** holds a very important place in Persian culture.
+      Here you will learn the most important terms for family members.
+    examples:
+      - q: "پدر"
+        a: "Father"
+        rel:
+          - ["پدر", "father", "noun"]
+      - q: "مادر"
+        a: "Mother"
+        rel:
+          - ["مادر", "mother", "noun"]
+      - q: "برادر"
+        a: "Brother"
+        rel:
+          - ["برادر", "brother", "noun"]
+      - q: "خواهر"
+        a: "Sister"
+        rel:
+          - ["خواهر", "sister", "noun"]
+      - q: "پسر"
+        a: "Son / Boy"
+        rel:
+          - ["پسر", "son / boy", "noun"]
+      - q: "دختر"
+        a: "Daughter / Girl"
+        rel:
+          - ["دختر", "daughter / girl", "noun"]

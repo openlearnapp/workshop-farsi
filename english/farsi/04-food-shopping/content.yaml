@@ -1,0 +1,85 @@
+version: 1
+number: 4
+title: "Food and Shopping"
+description: "Groceries, restaurant orders and shopping phrases in Farsi"
+sections:
+  - title: "Groceries"
+    explanation: |
+      **Persian cuisine** is world-famous. Here you will learn the most important
+      words for food and drinks in Farsi.
+    examples:
+      - q: "نان"
+        a: "Bread"
+        rel:
+          - ["نان", "bread", "noun"]
+      - q: "برنج"
+        a: "Rice"
+        rel:
+          - ["برنج", "rice", "noun"]
+      - q: "گوشت"
+        a: "Meat"
+        rel:
+          - ["گوشت", "meat", "noun"]
+      - q: "مرغ"
+        a: "Chicken"
+        rel:
+          - ["مرغ", "chicken", "noun"]
+      - q: "آب"
+        a: "Water"
+        rel:
+          - ["آب", "water", "noun"]
+      - q: "چای"
+        a: "Tea"
+        rel:
+          - ["چای", "tea", "noun"]
+  - title: "At the Restaurant"
+    explanation: |
+      **Ordering at a restaurant** – These sentences help you order at a
+      Persian restaurant and find your way around.
+    examples:
+      - q: "منو را لطفاً"
+        a: "The menu, please"
+        rel:
+          - ["منو", "menu", "noun"]
+          - ["لطفاً", "please", "polite form"]
+      - q: "من این را می‌خواهم"
+        a: "I would like this"
+        rel:
+          - ["من", "I", "pronoun"]
+          - ["می‌خواهم", "I want / would like", "verb"]
+      - q: "صورتحساب لطفاً"
+        a: "The bill, please"
+        rel:
+          - ["صورتحساب", "bill", "noun"]
+          - ["لطفاً", "please", "polite form"]
+      - q: "خیلی خوشمزه بود"
+        a: "It was very delicious"
+        rel:
+          - ["خیلی", "very", "adverb"]
+          - ["خوشمزه", "delicious", "adjective"]
+          - ["بود", "was", "verb to be, past tense"]
+  - title: "Shopping"
+    explanation: |
+      **Shopping at the bazaar** is part of everyday Persian life.
+      Bargaining is common and expected. These expressions will help you while shopping.
+    examples:
+      - q: "این چند است؟"
+        a: "How much is this?"
+        rel:
+          - ["این", "this", "demonstrative pronoun"]
+          - ["چند", "how much", "question word"]
+      - q: "خیلی گران است"
+        a: "It is very expensive"
+        rel:
+          - ["خیلی", "very", "adverb"]
+          - ["گران", "expensive", "adjective"]
+      - q: "ارزان‌تر نمی‌شود؟"
+        a: "Can't it be cheaper?"
+        rel:
+          - ["ارزان‌تر", "cheaper", "comparative"]
+          - ["نمی‌شود", "it can't / won't become", "verb"]
+      - q: "این را می‌خرم"
+        a: "I'll buy this"
+        rel:
+          - ["می‌خرم", "I buy", "verb"]
+          - ["این", "this", "demonstrative pronoun"]
