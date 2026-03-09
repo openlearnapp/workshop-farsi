@@ -1,6 +1,6 @@
 # Workshop: Farsi lernen
 
-> **[🌐 Landing Page](https://open-learn.app/workshop-farsi/)** · **[🚀 Workshop starten](https://open-learn.app/#/add?source=https://open-learn.app/workshop-farsi)**
+> **[🌐 Landing Page](https://open-learn.app/workshop-farsi/)** · **[🚀 Start Workshop](https://open-learn.app/#/add?source=https://open-learn.app/workshop-farsi)**
 
 5 Lektionen zum Erlernen der wichtigsten Wörter und Ausdrücke auf Farsi (Persisch). Available in German, English, and Farsi interfaces.
 
