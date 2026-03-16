@@ -5,3 +5,4 @@ workshops:
     description: "5 lessons to learn the most important words and phrases in Farsi (Persian)."
     color: "270 40% 93%"
     primaryColor: "270 65% 50%"
+    image: "farsi/thumbnail.svg"
