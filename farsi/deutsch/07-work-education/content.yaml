@@ -1,0 +1,100 @@
+version: 1
+number: 7
+title: "کار و تحصیل"
+description: "واژگان آلمانی برای مشاغل، محل کار و آموزش"
+sections:
+  - title: "مشاغل"
+    explanation: |
+      **مشاغل** (Berufe) در آلمانی اغلب دارای فرم مذکر و مؤنث هستند.
+      مثلاً: Lehrer (معلم مرد) و Lehrerin (معلم زن).
+      آلمان یکی از قوی‌ترین اقتصادهای جهان است و طیف گسترده‌ای از مشاغل دارد.
+    examples:
+      - q: "Arzt / Ärztin"
+        a: "دکتر"
+        rel:
+          - ["Arzt", "دکتر (مرد)", "شغل"]
+          - ["Ärztin", "دکتر (زن)", "شغل"]
+      - q: "Lehrer / Lehrerin"
+        a: "معلم"
+        rel:
+          - ["Lehrer", "معلم (مرد)", "شغل"]
+          - ["Lehrerin", "معلم (زن)", "شغل"]
+      - q: "Ingenieur / Ingenieurin"
+        a: "مهندس"
+        rel:
+          - ["Ingenieur", "مهندس (مرد)", "شغل"]
+          - ["Ingenieurin", "مهندس (زن)", "شغل"]
+      - q: "Verkäufer / Verkäuferin"
+        a: "فروشنده"
+        rel:
+          - ["Verkäufer", "فروشنده (مرد)", "شغل"]
+          - ["Verkäuferin", "فروشنده (زن)", "شغل"]
+      - q: "Fahrer / Fahrerin"
+        a: "راننده"
+        rel:
+          - ["Fahrer", "راننده (مرد)", "شغل"]
+          - ["Fahrerin", "راننده (زن)", "شغل"]
+      - q: "Journalist / Journalistin"
+        a: "خبرنگار"
+        rel:
+          - ["Journalist", "خبرنگار (مرد)", "شغل"]
+          - ["Journalistin", "خبرنگار (زن)", "شغل"]
+  - title: "آموزش و مدرسه"
+    explanation: |
+      **آموزش** (Bildung) در آلمان از اهمیت بسیاری برخوردار است.
+      سیستم آموزشی آلمان شامل Grundschule (دبستان)، Gymnasium (دبیرستان)
+      و Universität (دانشگاه) است. تحصیلات رایگان در دانشگاه‌های آلمان یک مزیت بزرگ است.
+    examples:
+      - q: "Schule"
+        a: "مدرسه"
+        rel:
+          - ["Schule", "مدرسه", "اسم"]
+      - q: "Universität"
+        a: "دانشگاه"
+        rel:
+          - ["Universität", "دانشگاه", "اسم"]
+      - q: "Schüler / Schülerin"
+        a: "دانش‌آموز"
+        rel:
+          - ["Schüler", "دانش‌آموز (پسر)", "اسم"]
+          - ["Schülerin", "دانش‌آموز (دختر)", "اسم"]
+      - q: "Student / Studentin"
+        a: "دانشجو"
+        rel:
+          - ["Student", "دانشجو (مرد)", "اسم"]
+          - ["Studentin", "دانشجو (زن)", "اسم"]
+      - q: "Schulbuch"
+        a: "کتاب درسی"
+        rel:
+          - ["Schulbuch", "کتاب درسی", "اسم"]
+      - q: "Prüfung"
+        a: "امتحان"
+        rel:
+          - ["Prüfung", "امتحان / آزمون", "اسم"]
+  - title: "کار و دفتر"
+    explanation: |
+      **در محل کار** (am Arbeitsplatz) این عبارات روزانه به کار می‌روند.
+      در فرهنگ کاری آلمان، دقت، وقت‌شناسی و نظم از اهمیت ویژه‌ای برخوردار است.
+      آلمانی‌ها بین زندگی کاری و شخصی تمایز واضحی قائل می‌شوند.
+    examples:
+      - q: "Ich arbeite"
+        a: "کار می‌کنم"
+        rel:
+          - ["arbeite", "کار می‌کنم", "فعل"]
+      - q: "Büro"
+        a: "دفتر"
+        rel:
+          - ["Büro", "دفتر / اداره", "اسم"]
+      - q: "Ich habe ein Meeting"
+        a: "جلسه دارم"
+        rel:
+          - ["Meeting", "جلسه", "اسم"]
+          - ["habe", "دارم", "فعل"]
+      - q: "Gehalt"
+        a: "حقوق"
+        rel:
+          - ["Gehalt", "حقوق / دستمزد", "اسم"]
+      - q: "Urlaub"
+        a: "مرخصی / تعطیلات"
+        rel:
+          - ["Urlaub", "مرخصی / تعطیلات", "اسم"]

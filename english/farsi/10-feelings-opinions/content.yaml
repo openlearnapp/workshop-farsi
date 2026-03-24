@@ -1,0 +1,97 @@
+version: 1
+number: 10
+title: "Feelings and Opinions"
+description: "Farsi expressions for emotions, opinions and personal thoughts"
+sections:
+  - title: "Feelings and Emotions"
+    explanation: |
+      **Expressing feelings** (احساسات - ehsāsāt) is essential in any language.
+      Persian has a rich poetic tradition — poets like Hafez and Rumi described emotions
+      with extraordinary depth. Farsi is a wonderfully expressive language for feelings.
+    examples:
+      - q: "خوشحالم"
+        a: "I am happy"
+        rel:
+          - ["خوشحالم", "I am happy", "adjective + verb"]
+      - q: "ناراحتم"
+        a: "I am sad / upset"
+        rel:
+          - ["ناراحتم", "I am sad", "adjective + verb"]
+      - q: "عصبانی هستم"
+        a: "I am angry"
+        rel:
+          - ["عصبانی", "angry", "adjective"]
+          - ["هستم", "I am", "verb to be"]
+      - q: "می‌ترسم"
+        a: "I am scared / I am afraid"
+        rel:
+          - ["می‌ترسم", "I am afraid", "verb"]
+      - q: "دوست دارم"
+        a: "I like / I love"
+        rel:
+          - ["دوست دارم", "I like / love", "verb"]
+      - q: "متأسفم"
+        a: "I am sorry"
+        rel:
+          - ["متأسفم", "I am sorry", "adjective + verb"]
+      - q: "هیجان‌زده‌ام"
+        a: "I am excited"
+        rel:
+          - ["هیجان‌زده‌ام", "I am excited", "adjective + verb"]
+  - title: "Expressing Opinions"
+    explanation: |
+      **Sharing opinions** (نظرات - nazarāt) politely is important in Persian culture.
+      The concept of "تعارف" (ta'ārof) influences how Iranians express disagreement —
+      direct refusal is often softened with polite phrasing.
+    examples:
+      - q: "به نظر من ..."
+        a: "In my opinion ..."
+        rel:
+          - ["به نظر من", "in my opinion", "opinion expression"]
+          - ["نظر", "opinion / view", "noun"]
+      - q: "فکر می‌کنم که ..."
+        a: "I think that ..."
+        rel:
+          - ["فکر", "thought / thinking", "noun"]
+          - ["می‌کنم", "I do / make", "verb"]
+      - q: "موافقم"
+        a: "I agree"
+        rel:
+          - ["موافقم", "I agree", "adjective + verb"]
+      - q: "مخالفم"
+        a: "I disagree"
+        rel:
+          - ["مخالفم", "I disagree", "adjective + verb"]
+      - q: "درست است"
+        a: "That's right / That's correct"
+        rel:
+          - ["درست", "correct / right", "adjective"]
+  - title: "Wishes and Plans"
+    explanation: |
+      **Expressing wishes and plans** rounds out your Farsi vocabulary.
+      With these phrases you can talk about your future, hopes and intentions —
+      and have genuine conversations with Persian speakers.
+    examples:
+      - q: "می‌خواهم ..."
+        a: "I want to / I would like to ..."
+        rel:
+          - ["می‌خواهم", "I want / would like", "verb"]
+      - q: "آرزو می‌کنم"
+        a: "I wish for / I dream of"
+        rel:
+          - ["آرزو", "wish / dream", "noun"]
+          - ["می‌کنم", "I do / make", "verb"]
+      - q: "امیدوارم"
+        a: "I hope"
+        rel:
+          - ["امیدوارم", "I hope", "adjective + verb"]
+      - q: "برنامه دارم"
+        a: "I have a plan"
+        rel:
+          - ["برنامه", "plan / program", "noun"]
+          - ["دارم", "I have", "verb"]
+      - q: "ممنون که یاد گرفتید!"
+        a: "Thank you for learning!"
+        rel:
+          - ["ممنون", "thank you", "polite form"]
+          - ["یاد گرفتید", "you have learned", "verb"]

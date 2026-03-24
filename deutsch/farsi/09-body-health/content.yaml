@@ -1,0 +1,101 @@
+version: 1
+number: 9
+title: "Körper und Gesundheit"
+description: "Farsi-Vokabular für Körperteile, Gesundheit und beim Arzt"
+sections:
+  - title: "Körperteile"
+    explanation: |
+      **Körperteile** (اعضای بدن - a'zā-ye badan) zu kennen ist im Alltag sehr nützlich —
+      sei es beim Arzt oder bei einfachen Beschreibungen.
+      Viele medizinische Begriffe im Farsi haben arabische oder griechische Ursprünge.
+    examples:
+      - q: "سر"
+        a: "Kopf"
+        rel:
+          - ["سر", "Kopf", "Körperteil"]
+      - q: "چشم"
+        a: "Auge"
+        rel:
+          - ["چشم", "Auge", "Körperteil"]
+      - q: "دست"
+        a: "Hand / Arm"
+        rel:
+          - ["دست", "Hand", "Körperteil"]
+      - q: "پا"
+        a: "Fuß / Bein"
+        rel:
+          - ["پا", "Fuß", "Körperteil"]
+      - q: "دهان"
+        a: "Mund"
+        rel:
+          - ["دهان", "Mund", "Körperteil"]
+      - q: "قلب"
+        a: "Herz"
+        rel:
+          - ["قلب", "Herz", "Körperteil"]
+      - q: "پشت"
+        a: "Rücken"
+        rel:
+          - ["پشت", "Rücken", "Körperteil"]
+  - title: "Beim Arzt"
+    explanation: |
+      **Beim Arzt** (پیش دکتر - pish-e doktor) ist es wichtig, Symptome beschreiben zu können.
+      Im Iran ist das Gesundheitssystem staatlich organisiert; Apotheken (داروخانه) sind weit verbreitet.
+      Mit diesen Sätzen können Sie Ihre Beschwerden auf Farsi schildern.
+    examples:
+      - q: "دردم می‌آید"
+        a: "Ich habe Schmerzen"
+        rel:
+          - ["درد", "Schmerz", "Substantiv"]
+          - ["می‌آید", "kommt / tritt auf", "Verb"]
+      - q: "سرم درد می‌کند"
+        a: "Mein Kopf tut weh"
+        rel:
+          - ["سرم", "mein Kopf", "Substantiv + Possessiv"]
+          - ["درد می‌کند", "tut weh", "Verb"]
+      - q: "تب دارم"
+        a: "Ich habe Fieber"
+        rel:
+          - ["تب", "Fieber", "Substantiv"]
+          - ["دارم", "ich habe", "Verb"]
+      - q: "دارو"
+        a: "Medikament"
+        rel:
+          - ["دارو", "Medikament", "Substantiv"]
+      - q: "داروخانه"
+        a: "Apotheke"
+        rel:
+          - ["داروخانه", "Apotheke", "Substantiv"]
+      - q: "به دکتر نیاز دارم"
+        a: "Ich brauche einen Arzt"
+        rel:
+          - ["نیاز دارم", "ich brauche / habe Bedarf", "Verb"]
+  - title: "Gesundheit und Wohlbefinden"
+    explanation: |
+      **Gesundheit** (سلامتی - salāmati) ist ein zentrales Thema in der persischen Kultur.
+      Der Trinkspruch „به سلامتی!" (be salāmati!) bedeutet „Auf die Gesundheit!" —
+      ähnlich wie das deutsche „Prost!" oder „Zum Wohl!".
+    examples:
+      - q: "حالم خوب است"
+        a: "Mir geht es gut"
+        rel:
+          - ["حالم", "mein Befinden", "Substantiv + Possessiv"]
+          - ["خوب", "gut", "Adjektiv"]
+      - q: "خسته‌ام"
+        a: "Ich bin müde / erschöpft"
+        rel:
+          - ["خسته‌ام", "ich bin müde", "Adjektiv + Verb"]
+      - q: "بیمار هستم"
+        a: "Ich bin krank"
+        rel:
+          - ["بیمار", "krank", "Adjektiv"]
+          - ["هستم", "ich bin", "Verb sein"]
+      - q: "استراحت می‌کنم"
+        a: "Ich ruhe mich aus"
+        rel:
+          - ["استراحت", "Ruhe / Erholung", "Substantiv"]
+          - ["می‌کنم", "ich mache", "Verb"]
+      - q: "به سلامتی!"
+        a: "Auf die Gesundheit! / Zum Wohl!"
+        rel:
+          - ["سلامتی", "Gesundheit", "Substantiv"]

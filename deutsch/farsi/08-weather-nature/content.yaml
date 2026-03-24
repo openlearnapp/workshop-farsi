@@ -1,0 +1,97 @@
+version: 1
+number: 8
+title: "Wetter und Natur"
+description: "Farsi-Begriffe für Wetter, Jahreszeiten und Natur"
+sections:
+  - title: "Das Wetter"
+    explanation: |
+      **Das Wetter** (هوا - havā) ist ein universelles Gesprächsthema.
+      Der Iran hat ein sehr vielfältiges Klima — von Wüstenregionen im Zentrum
+      bis zu schneereichen Bergen im Norden. Das persische Jahr beginnt mit dem Frühling.
+    examples:
+      - q: "هوا آفتابی است"
+        a: "Das Wetter ist sonnig"
+        rel:
+          - ["هوا", "Wetter / Luft", "Substantiv"]
+          - ["آفتابی", "sonnig", "Adjektiv"]
+      - q: "باران می‌بارد"
+        a: "Es regnet"
+        rel:
+          - ["باران", "Regen", "Substantiv"]
+          - ["می‌بارد", "es fällt / regnet", "Verb"]
+      - q: "برف می‌بارد"
+        a: "Es schneit"
+        rel:
+          - ["برف", "Schnee", "Substantiv"]
+          - ["می‌بارد", "es fällt / schneit", "Verb"]
+      - q: "هوا گرم است"
+        a: "Das Wetter ist warm"
+        rel:
+          - ["گرم", "warm / heiß", "Adjektiv"]
+      - q: "هوا سرد است"
+        a: "Das Wetter ist kalt"
+        rel:
+          - ["سرد", "kalt", "Adjektiv"]
+      - q: "باد می‌وزد"
+        a: "Der Wind weht"
+        rel:
+          - ["باد", "Wind", "Substantiv"]
+          - ["می‌وزد", "weht", "Verb"]
+  - title: "Jahreszeiten"
+    explanation: |
+      **Die Jahreszeiten** (فصل‌ها - fasl-hā) spielen im persischen Kalender eine wichtige Rolle.
+      Das persische Neujahr „نوروز" (Nowruz) findet am ersten Tag des Frühlings statt —
+      ein nationales Fest, das den Neubeginn der Natur feiert.
+    examples:
+      - q: "بهار"
+        a: "Frühling"
+        rel:
+          - ["بهار", "Frühling", "Jahreszeit"]
+      - q: "تابستان"
+        a: "Sommer"
+        rel:
+          - ["تابستان", "Sommer", "Jahreszeit"]
+      - q: "پاییز"
+        a: "Herbst"
+        rel:
+          - ["پاییز", "Herbst", "Jahreszeit"]
+      - q: "زمستان"
+        a: "Winter"
+        rel:
+          - ["زمستان", "Winter", "Jahreszeit"]
+      - q: "نوروز در بهار است"
+        a: "Nowruz ist im Frühling"
+        rel:
+          - ["نوروز", "Nowruz (pers. Neujahr)", "Eigenname"]
+          - ["در بهار", "im Frühling", "Ortsangabe"]
+  - title: "Natur und Landschaft"
+    explanation: |
+      **Die Natur** (طبیعت - tabi'at) Irans ist beeindruckend vielfältig —
+      von der Wüste Kavir bis zum Kaspischen Meer und dem Zagros-Gebirge.
+      Viele persische Gedichte und Texte feiern die Schönheit der Natur.
+    examples:
+      - q: "کوه"
+        a: "Berg"
+        rel:
+          - ["کوه", "Berg", "Substantiv"]
+      - q: "دریا"
+        a: "Meer"
+        rel:
+          - ["دریا", "Meer", "Substantiv"]
+      - q: "رودخانه"
+        a: "Fluss"
+        rel:
+          - ["رودخانه", "Fluss", "Substantiv"]
+      - q: "جنگل"
+        a: "Wald"
+        rel:
+          - ["جنگل", "Wald", "Substantiv"]
+      - q: "بیابان"
+        a: "Wüste"
+        rel:
+          - ["بیابان", "Wüste", "Substantiv"]
+      - q: "آسمان آبی است"
+        a: "Der Himmel ist blau"
+        rel:
+          - ["آسمان", "Himmel", "Substantiv"]
+          - ["آبی", "blau", "Adjektiv"]

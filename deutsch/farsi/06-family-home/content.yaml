@@ -1,0 +1,101 @@
+version: 1
+number: 6
+title: "Familie und Zuhause"
+description: "Wichtige Begriffe rund um Familie und Wohnen auf Farsi"
+sections:
+  - title: "Familienmitglieder"
+    explanation: |
+      **Die Familie** (خانواده - khānevāde) hat im persischen Kulturkreis einen sehr hohen Stellenwert.
+      Familienfeste wie Nowruz (persisches Neujahr) bringen die ganze Familie zusammen.
+      Farsi unterscheidet nicht grammatikalisch zwischen Genus — das vereinfacht das Lernen!
+    examples:
+      - q: "پدر"
+        a: "Vater"
+        rel:
+          - ["پدر", "Vater", "Familienbeziehung"]
+      - q: "مادر"
+        a: "Mutter"
+        rel:
+          - ["مادر", "Mutter", "Familienbeziehung"]
+      - q: "برادر"
+        a: "Bruder"
+        rel:
+          - ["برادر", "Bruder", "Familienbeziehung"]
+      - q: "خواهر"
+        a: "Schwester"
+        rel:
+          - ["خواهر", "Schwester", "Familienbeziehung"]
+      - q: "پدربزرگ"
+        a: "Großvater"
+        rel:
+          - ["پدربزرگ", "Großvater", "Familienbeziehung"]
+      - q: "مادربزرگ"
+        a: "Großmutter"
+        rel:
+          - ["مادربزرگ", "Großmutter", "Familienbeziehung"]
+      - q: "فرزند"
+        a: "Kind (Sohn oder Tochter)"
+        rel:
+          - ["فرزند", "Kind", "Familienbeziehung"]
+  - title: "Zuhause und Wohnen"
+    explanation: |
+      **Das Zuhause** (خانه - khāne) spielt im persischen Alltag eine zentrale Rolle.
+      Iraner legen großen Wert auf Gastfreundschaft — Gäste im Haus zu empfangen ist eine Ehre.
+      Der Begriff „تعارف" (ta'ārof) beschreibt die persische Höflichkeitskultur beim Einladen.
+    examples:
+      - q: "خانه"
+        a: "Haus / Zuhause"
+        rel:
+          - ["خانه", "Haus", "Substantiv"]
+      - q: "اتاق"
+        a: "Zimmer / Raum"
+        rel:
+          - ["اتاق", "Zimmer", "Substantiv"]
+      - q: "آشپزخانه"
+        a: "Küche"
+        rel:
+          - ["آشپزخانه", "Küche", "Substantiv"]
+      - q: "حمام"
+        a: "Badezimmer"
+        rel:
+          - ["حمام", "Badezimmer", "Substantiv"]
+      - q: "باغ"
+        a: "Garten"
+        rel:
+          - ["باغ", "Garten", "Substantiv"]
+      - q: "در"
+        a: "Tür"
+        rel:
+          - ["در", "Tür", "Substantiv"]
+  - title: "Zuhause leben — Alltagssätze"
+    explanation: |
+      **Im Alltag** spricht man über Zuhause und Familie in vielen Zusammenhängen.
+      Diese Sätze helfen Ihnen, über Ihren Haushalt und Ihre Familie zu sprechen.
+      Im Persischen ist es üblich, Familienmitglieder respektvoll mit Titeln anzusprechen.
+    examples:
+      - q: "خانواده‌ام بزرگ است"
+        a: "Meine Familie ist groß"
+        rel:
+          - ["خانواده‌ام", "meine Familie", "Substantiv + Possessiv"]
+          - ["بزرگ", "groß", "Adjektiv"]
+          - ["است", "ist", "Verb sein"]
+      - q: "در خانه هستم"
+        a: "Ich bin zu Hause"
+        rel:
+          - ["در خانه", "zu Hause", "Ortsangabe"]
+          - ["هستم", "ich bin", "Verb sein"]
+      - q: "مهمان داریم"
+        a: "Wir haben Gäste"
+        rel:
+          - ["مهمان", "Gast", "Substantiv"]
+          - ["داریم", "wir haben", "Verb haben"]
+      - q: "بفرمایید، بنشینید"
+        a: "Bitte, setzen Sie sich (herzliche Einladung)"
+        rel:
+          - ["بفرمایید", "bitte / geruhen Sie", "Höflichkeitsform"]
+          - ["بنشینید", "setzen Sie sich", "Verb"]
+      - q: "خانه‌ام در تهران است"
+        a: "Mein Haus ist in Teheran"
+        rel:
+          - ["خانه‌ام", "mein Haus", "Substantiv + Possessiv"]
+          - ["تهران", "Teheran", "Eigenname"]

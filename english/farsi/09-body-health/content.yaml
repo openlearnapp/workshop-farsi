@@ -1,0 +1,101 @@
+version: 1
+number: 9
+title: "Body and Health"
+description: "Farsi vocabulary for body parts, health and visiting the doctor"
+sections:
+  - title: "Body Parts"
+    explanation: |
+      **Body parts** (اعضای بدن - a'zā-ye badan) are essential vocabulary for everyday life —
+      whether at the doctor's office or in simple descriptions.
+      Many medical terms in Farsi have Arabic or Greek origins.
+    examples:
+      - q: "سر"
+        a: "head"
+        rel:
+          - ["سر", "head", "body part"]
+      - q: "چشم"
+        a: "eye"
+        rel:
+          - ["چشم", "eye", "body part"]
+      - q: "دست"
+        a: "hand / arm"
+        rel:
+          - ["دست", "hand", "body part"]
+      - q: "پا"
+        a: "foot / leg"
+        rel:
+          - ["پا", "foot", "body part"]
+      - q: "دهان"
+        a: "mouth"
+        rel:
+          - ["دهان", "mouth", "body part"]
+      - q: "قلب"
+        a: "heart"
+        rel:
+          - ["قلب", "heart", "body part"]
+      - q: "پشت"
+        a: "back"
+        rel:
+          - ["پشت", "back", "body part"]
+  - title: "At the Doctor"
+    explanation: |
+      **At the doctor's** (پیش دکتر - pish-e doktor) it is important to describe your symptoms.
+      Pharmacies (داروخانه) are widely available throughout Iran.
+      These sentences will help you communicate your health concerns in Farsi.
+    examples:
+      - q: "دردم می‌آید"
+        a: "I am in pain"
+        rel:
+          - ["درد", "pain", "noun"]
+          - ["می‌آید", "comes / occurs", "verb"]
+      - q: "سرم درد می‌کند"
+        a: "My head hurts"
+        rel:
+          - ["سرم", "my head", "noun + possessive"]
+          - ["درد می‌کند", "hurts", "verb"]
+      - q: "تب دارم"
+        a: "I have a fever"
+        rel:
+          - ["تب", "fever", "noun"]
+          - ["دارم", "I have", "verb"]
+      - q: "دارو"
+        a: "medicine / medication"
+        rel:
+          - ["دارو", "medicine", "noun"]
+      - q: "داروخانه"
+        a: "pharmacy"
+        rel:
+          - ["داروخانه", "pharmacy", "noun"]
+      - q: "به دکتر نیاز دارم"
+        a: "I need a doctor"
+        rel:
+          - ["نیاز دارم", "I need", "verb"]
+  - title: "Health and Wellbeing"
+    explanation: |
+      **Health** (سلامتی - salāmati) is a central theme in Persian culture.
+      The toast "به سلامتی!" (be salāmati!) means "To your health!" —
+      similar to "Cheers!" in English. It is used at celebrations and gatherings.
+    examples:
+      - q: "حالم خوب است"
+        a: "I feel well / I am fine"
+        rel:
+          - ["حالم", "my condition / how I feel", "noun + possessive"]
+          - ["خوب", "good / well", "adjective"]
+      - q: "خسته‌ام"
+        a: "I am tired / exhausted"
+        rel:
+          - ["خسته‌ام", "I am tired", "adjective + verb"]
+      - q: "بیمار هستم"
+        a: "I am sick"
+        rel:
+          - ["بیمار", "sick / ill", "adjective"]
+          - ["هستم", "I am", "verb to be"]
+      - q: "استراحت می‌کنم"
+        a: "I am resting"
+        rel:
+          - ["استراحت", "rest / relaxation", "noun"]
+          - ["می‌کنم", "I do / make", "verb"]
+      - q: "به سلامتی!"
+        a: "To your health! / Cheers!"
+        rel:
+          - ["سلامتی", "health", "noun"]

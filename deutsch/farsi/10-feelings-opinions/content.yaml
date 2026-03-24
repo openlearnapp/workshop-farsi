@@ -1,0 +1,97 @@
+version: 1
+number: 10
+title: "Gefühle und Meinungen"
+description: "Farsi-Ausdrücke für Emotionen, Meinungen und persönliche Gedanken"
+sections:
+  - title: "Gefühle und Emotionen"
+    explanation: |
+      **Gefühle ausdrücken** (احساسات - ehsāsāt) ist ein wichtiger Teil jeder Sprache.
+      Die persische Sprache hat eine reiche poetische Tradition — Dichter wie Hafez und Rumi
+      haben Emotionen auf einzigartige Weise beschrieben. Farsi ist sehr ausdrucksstark.
+    examples:
+      - q: "خوشحالم"
+        a: "Ich bin glücklich / froh"
+        rel:
+          - ["خوشحالم", "ich bin glücklich", "Adjektiv + Verb"]
+      - q: "ناراحتم"
+        a: "Ich bin traurig / unglücklich"
+        rel:
+          - ["ناراحتم", "ich bin traurig", "Adjektiv + Verb"]
+      - q: "عصبانی هستم"
+        a: "Ich bin wütend / ärgerlich"
+        rel:
+          - ["عصبانی", "wütend / ärgerlich", "Adjektiv"]
+          - ["هستم", "ich bin", "Verb sein"]
+      - q: "می‌ترسم"
+        a: "Ich habe Angst / Ich fürchte mich"
+        rel:
+          - ["می‌ترسم", "ich fürchte mich", "Verb"]
+      - q: "دوست دارم"
+        a: "Ich mag es / Ich liebe"
+        rel:
+          - ["دوست دارم", "ich mag / liebe", "Verb"]
+      - q: "متأسفم"
+        a: "Es tut mir leid"
+        rel:
+          - ["متأسفم", "es tut mir leid", "Adjektiv + Verb"]
+      - q: "هیجان‌زده‌ام"
+        a: "Ich bin aufgeregt / begeistert"
+        rel:
+          - ["هیجان‌زده‌ام", "ich bin begeistert", "Adjektiv + Verb"]
+  - title: "Meinungen ausdrücken"
+    explanation: |
+      **Meinungen** (نظرات - nazarāt) höflich zu äußern ist in der persischen Kultur wichtig.
+      Die persische Höflichkeitskultur „تعارف" (ta'ārof) spielt auch beim Meinungsaustausch eine Rolle —
+      direkte Ablehnung wird oft durch sanftere Formulierungen ersetzt.
+    examples:
+      - q: "به نظر من ..."
+        a: "Meiner Meinung nach ..."
+        rel:
+          - ["به نظر من", "meiner Meinung nach", "Meinungsausdruck"]
+          - ["نظر", "Meinung / Ansicht", "Substantiv"]
+      - q: "فکر می‌کنم که ..."
+        a: "Ich denke, dass ..."
+        rel:
+          - ["فکر", "Gedanke / Denken", "Substantiv"]
+          - ["می‌کنم", "ich mache / tue", "Verb"]
+      - q: "موافقم"
+        a: "Ich stimme zu / Einverstanden"
+        rel:
+          - ["موافقم", "ich stimme zu", "Adjektiv + Verb"]
+      - q: "مخالفم"
+        a: "Ich stimme nicht zu / Nicht einverstanden"
+        rel:
+          - ["مخالفم", "ich stimme nicht zu", "Adjektiv + Verb"]
+      - q: "درست است"
+        a: "Das stimmt / Das ist richtig"
+        rel:
+          - ["درست", "richtig / korrekt", "Adjektiv"]
+  - title: "Wünsche und Vorhaben"
+    explanation: |
+      **Wünsche und Pläne** auf Farsi auszudrücken rundet Ihren Sprachschatz ab.
+      Mit diesen Ausdrücken können Sie über Ihre Zukunft, Hoffnungen und Vorhaben sprechen —
+      und damit echte Gespräche auf Farsi führen.
+    examples:
+      - q: "می‌خواهم ..."
+        a: "Ich möchte / will ..."
+        rel:
+          - ["می‌خواهم", "ich möchte / will", "Verb"]
+      - q: "آرزو می‌کنم"
+        a: "Ich wünsche mir"
+        rel:
+          - ["آرزو", "Wunsch / Sehnsucht", "Substantiv"]
+          - ["می‌کنم", "ich mache / tue", "Verb"]
+      - q: "امیدوارم"
+        a: "Ich hoffe"
+        rel:
+          - ["امیدوارم", "ich hoffe", "Adjektiv + Verb"]
+      - q: "برنامه دارم"
+        a: "Ich habe einen Plan / Vorhaben"
+        rel:
+          - ["برنامه", "Plan / Programm", "Substantiv"]
+          - ["دارم", "ich habe", "Verb"]
+      - q: "ممنون که یاد گرفتید!"
+        a: "Danke, dass Sie gelernt haben!"
+        rel:
+          - ["ممنون", "danke", "Höflichkeitsform"]
+          - ["یاد گرفتید", "Sie haben gelernt", "Verb"]

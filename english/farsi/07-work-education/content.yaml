@@ -1,0 +1,94 @@
+version: 1
+number: 7
+title: "Work and Education"
+description: "Farsi vocabulary for professions, the workplace and school"
+sections:
+  - title: "Professions"
+    explanation: |
+      **Professions** (مشاغل - mashāghel) are a common topic of conversation.
+      Education is highly valued in Iranian society — many families prioritize academic achievement.
+      Professional titles in Farsi are generally gender-neutral, making them easy to learn.
+    examples:
+      - q: "دکتر"
+        a: "doctor"
+        rel:
+          - ["دکتر", "doctor", "profession"]
+      - q: "معلم"
+        a: "teacher"
+        rel:
+          - ["معلم", "teacher", "profession"]
+      - q: "مهندس"
+        a: "engineer"
+        rel:
+          - ["مهندس", "engineer", "profession"]
+      - q: "فروشنده"
+        a: "salesperson / shopkeeper"
+        rel:
+          - ["فروشنده", "salesperson", "profession"]
+      - q: "راننده"
+        a: "driver"
+        rel:
+          - ["راننده", "driver", "profession"]
+      - q: "خبرنگار"
+        a: "journalist"
+        rel:
+          - ["خبرنگار", "journalist", "profession"]
+  - title: "Education and School"
+    explanation: |
+      **Education** (آموزش - āmuzesh) has a very high status in Persian culture.
+      The university is called "دانشگاه" (dāneshgāh) — literally "place of knowledge".
+      Many educational terms in Farsi have Arabic roots.
+    examples:
+      - q: "مدرسه"
+        a: "school"
+        rel:
+          - ["مدرسه", "school", "noun"]
+      - q: "دانشگاه"
+        a: "university"
+        rel:
+          - ["دانشگاه", "university", "noun"]
+      - q: "دانش‌آموز"
+        a: "student (school)"
+        rel:
+          - ["دانش‌آموز", "school student", "noun"]
+      - q: "دانشجو"
+        a: "student (university)"
+        rel:
+          - ["دانشجو", "university student", "noun"]
+      - q: "کتاب درسی"
+        a: "textbook"
+        rel:
+          - ["کتاب", "book", "noun"]
+          - ["درسی", "academic / lesson", "adjective"]
+      - q: "امتحان"
+        a: "exam / test"
+        rel:
+          - ["امتحان", "exam", "noun"]
+  - title: "Work and the Office"
+    explanation: |
+      **At work** (محل کار - mahall-e kār), these expressions are used every day.
+      In Persian business culture, personal relationships and trust are especially important.
+      Building rapport before discussing business is a key part of Iranian professional life.
+    examples:
+      - q: "کار می‌کنم"
+        a: "I work"
+        rel:
+          - ["کار", "work", "noun"]
+          - ["می‌کنم", "I do / make", "verb"]
+      - q: "دفتر"
+        a: "office"
+        rel:
+          - ["دفتر", "office", "noun"]
+      - q: "جلسه دارم"
+        a: "I have a meeting"
+        rel:
+          - ["جلسه", "meeting", "noun"]
+          - ["دارم", "I have", "verb"]
+      - q: "حقوق"
+        a: "salary / wages"
+        rel:
+          - ["حقوق", "salary", "noun"]
+      - q: "مرخصی"
+        a: "vacation / day off"
+        rel:
+          - ["مرخصی", "vacation / leave", "noun"]

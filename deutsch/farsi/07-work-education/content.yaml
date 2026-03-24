@@ -1,0 +1,93 @@
+version: 1
+number: 7
+title: "Arbeit und Bildung"
+description: "Farsi-Vokabular rund um Berufe, Arbeitsplatz und Schule"
+sections:
+  - title: "Berufe"
+    explanation: |
+      **Berufe** (مشاغل - mashāghel) sind ein wichtiges Gesprächsthema.
+      Im Iran hat Bildung einen sehr hohen Stellenwert — viele Familien legen großen Wert
+      auf akademische Ausbildung ihrer Kinder. Berufsbezeichnungen sind im Farsi oft neutral.
+    examples:
+      - q: "دکتر"
+        a: "Arzt / Ärztin"
+        rel:
+          - ["دکتر", "Arzt", "Berufsbezeichnung"]
+      - q: "معلم"
+        a: "Lehrer / Lehrerin"
+        rel:
+          - ["معلم", "Lehrer", "Berufsbezeichnung"]
+      - q: "مهندس"
+        a: "Ingenieur / Ingenieurin"
+        rel:
+          - ["مهندس", "Ingenieur", "Berufsbezeichnung"]
+      - q: "فروشنده"
+        a: "Verkäufer / Verkäuferin"
+        rel:
+          - ["فروشنده", "Verkäufer", "Berufsbezeichnung"]
+      - q: "راننده"
+        a: "Fahrer / Fahrerin"
+        rel:
+          - ["راننده", "Fahrer", "Berufsbezeichnung"]
+      - q: "خبرنگار"
+        a: "Journalist / Journalistin"
+        rel:
+          - ["خبرنگار", "Journalist", "Berufsbezeichnung"]
+  - title: "Bildung und Schule"
+    explanation: |
+      **Bildung** (آموزش - āmuzesh) hat im persischen Kulturkreis einen sehr hohen Stellenwert.
+      Die Universität wird „دانشگاه" (dāneshgāh) genannt — wörtlich „Ort des Wissens".
+      Viele iranische Fachausdrücke in der Bildung haben arabische Wurzeln.
+    examples:
+      - q: "مدرسه"
+        a: "Schule"
+        rel:
+          - ["مدرسه", "Schule", "Substantiv"]
+      - q: "دانشگاه"
+        a: "Universität"
+        rel:
+          - ["دانشگاه", "Universität", "Substantiv"]
+      - q: "دانش‌آموز"
+        a: "Schüler / Schülerin"
+        rel:
+          - ["دانش‌آموز", "Schüler", "Substantiv"]
+      - q: "دانشجو"
+        a: "Student / Studentin"
+        rel:
+          - ["دانشجو", "Student", "Substantiv"]
+      - q: "کتاب درسی"
+        a: "Schulbuch / Lehrbuch"
+        rel:
+          - ["کتاب", "Buch", "Substantiv"]
+          - ["درسی", "Unterrichts-", "Adjektiv"]
+      - q: "امتحان"
+        a: "Prüfung / Examen"
+        rel:
+          - ["امتحان", "Prüfung", "Substantiv"]
+  - title: "Arbeit und Büro"
+    explanation: |
+      **Am Arbeitsplatz** (محل کار - mahall-e kār) werden diese Ausdrücke täglich gebraucht.
+      Im persischen Geschäftsleben ist persönlicher Kontakt und Vertrauen besonders wichtig.
+    examples:
+      - q: "کار می‌کنم"
+        a: "Ich arbeite"
+        rel:
+          - ["کار", "Arbeit", "Substantiv"]
+          - ["می‌کنم", "ich mache / tue", "Verb"]
+      - q: "دفتر"
+        a: "Büro"
+        rel:
+          - ["دفتر", "Büro", "Substantiv"]
+      - q: "جلسه دارم"
+        a: "Ich habe eine Besprechung"
+        rel:
+          - ["جلسه", "Besprechung / Meeting", "Substantiv"]
+          - ["دارم", "ich habe", "Verb"]
+      - q: "حقوق"
+        a: "Gehalt / Lohn"
+        rel:
+          - ["حقوق", "Gehalt", "Substantiv"]
+      - q: "مرخصی"
+        a: "Urlaub / freier Tag"
+        rel:
+          - ["مرخصی", "Urlaub", "Substantiv"]

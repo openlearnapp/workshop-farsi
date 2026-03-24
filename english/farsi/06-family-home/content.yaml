@@ -1,0 +1,101 @@
+version: 1
+number: 6
+title: "Family and Home"
+description: "Essential vocabulary for family relationships and home life in Farsi"
+sections:
+  - title: "Family Members"
+    explanation: |
+      **Family** (خانواده - khānevāde) holds an exceptionally important place in Persian culture.
+      Family gatherings during Nowruz (Persian New Year) are a cherished tradition.
+      Farsi does not distinguish grammatical gender — this makes learning much easier!
+    examples:
+      - q: "پدر"
+        a: "father"
+        rel:
+          - ["پدر", "father", "family relationship"]
+      - q: "مادر"
+        a: "mother"
+        rel:
+          - ["مادر", "mother", "family relationship"]
+      - q: "برادر"
+        a: "brother"
+        rel:
+          - ["برادر", "brother", "family relationship"]
+      - q: "خواهر"
+        a: "sister"
+        rel:
+          - ["خواهر", "sister", "family relationship"]
+      - q: "پدربزرگ"
+        a: "grandfather"
+        rel:
+          - ["پدربزرگ", "grandfather", "family relationship"]
+      - q: "مادربزرگ"
+        a: "grandmother"
+        rel:
+          - ["مادربزرگ", "grandmother", "family relationship"]
+      - q: "فرزند"
+        a: "child (son or daughter)"
+        rel:
+          - ["فرزند", "child", "family relationship"]
+  - title: "Home and Living"
+    explanation: |
+      **Home** (خانه - khāne) is central to Persian daily life.
+      Iranians place great value on hospitality — welcoming guests into your home is an honor.
+      The concept of "تعارف" (ta'ārof) describes Persian hospitality and etiquette.
+    examples:
+      - q: "خانه"
+        a: "house / home"
+        rel:
+          - ["خانه", "house", "noun"]
+      - q: "اتاق"
+        a: "room"
+        rel:
+          - ["اتاق", "room", "noun"]
+      - q: "آشپزخانه"
+        a: "kitchen"
+        rel:
+          - ["آشپزخانه", "kitchen", "noun"]
+      - q: "حمام"
+        a: "bathroom"
+        rel:
+          - ["حمام", "bathroom", "noun"]
+      - q: "باغ"
+        a: "garden"
+        rel:
+          - ["باغ", "garden", "noun"]
+      - q: "در"
+        a: "door"
+        rel:
+          - ["در", "door", "noun"]
+  - title: "Everyday Life at Home"
+    explanation: |
+      **At home**, these phrases help you talk about your household and family life.
+      Persian culture emphasizes addressing family members respectfully.
+      These sentences will help you have natural conversations about home and family.
+    examples:
+      - q: "خانواده‌ام بزرگ است"
+        a: "My family is big"
+        rel:
+          - ["خانواده‌ام", "my family", "noun + possessive"]
+          - ["بزرگ", "big / large", "adjective"]
+          - ["است", "is", "verb to be"]
+      - q: "در خانه هستم"
+        a: "I am at home"
+        rel:
+          - ["در خانه", "at home", "place expression"]
+          - ["هستم", "I am", "verb to be"]
+      - q: "مهمان داریم"
+        a: "We have guests"
+        rel:
+          - ["مهمان", "guest", "noun"]
+          - ["داریم", "we have", "verb"]
+      - q: "بفرمایید، بنشینید"
+        a: "Please, have a seat (warm invitation)"
+        rel:
+          - ["بفرمایید", "please / do come in", "polite form"]
+          - ["بنشینید", "please sit down", "verb"]
+      - q: "خانه‌ام در تهران است"
+        a: "My house is in Tehran"
+        rel:
+          - ["خانه‌ام", "my house", "noun + possessive"]
+          - ["تهران", "Tehran", "proper noun"]
