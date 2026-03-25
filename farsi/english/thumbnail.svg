@@ -1,0 +1,50 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1a5e"/>
+      <stop offset="100%" style="stop-color:#6b3fa0"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0.15)"/>
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0.04)"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="800" fill="url(#bg)"/>
+
+  <!-- Decorative geometric pattern (inspired by Persian tile art) -->
+  <g opacity="0.1">
+    <polygon points="640,80 700,160 640,240 580,160" fill="none" stroke="white" stroke-width="1.5"/>
+    <polygon points="640,80 700,160 640,240 580,160" fill="none" stroke="white" stroke-width="1" transform="rotate(45, 640, 160)"/>
+    <circle cx="640" cy="160" r="60" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="200,600 260,680 200,760 140,680" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="1080,40 1140,120 1080,200 1020,120" fill="none" stroke="white" stroke-width="1"/>
+    <circle cx="150" cy="400" r="40" fill="none" stroke="white" stroke-width="1"/>
+    <circle cx="1130" cy="400" r="40" fill="none" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Center card -->
+  <rect x="290" y="150" width="700" height="500" rx="28" fill="url(#card)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+
+  <!-- Crescent moon icon -->
+  <circle cx="640" cy="290" r="70" fill="rgba(255,255,255,0.9)"/>
+  <circle cx="670" cy="270" r="55" fill="#3d2070"/>
+  <!-- Star next to crescent -->
+  <polygon points="720,245 726,263 745,263 730,274 736,292 720,281 704,292 710,274 695,263 714,263"
+           fill="rgba(255,255,255,0.85)"/>
+
+  <!-- Main title -->
+  <text x="640" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="bold"
+        text-anchor="middle" fill="white" letter-spacing="4">Farsi</text>
+
+  <!-- Subtitle -->
+  <text x="640" y="490" font-family="Arial, Helvetica, sans-serif" font-size="30"
+        text-anchor="middle" fill="rgba(255,255,255,0.75)" letter-spacing="3">فارسی · Persisch lernen</text>
+
+  <!-- Divider -->
+  <rect x="520" y="518" width="240" height="2" rx="1" fill="rgba(255,255,255,0.3)"/>
+
+  <!-- Label -->
+  <text x="640" y="560" font-family="Arial, Helvetica, sans-serif" font-size="22"
+        text-anchor="middle" fill="rgba(255,255,255,0.5)" letter-spacing="3">5 LEKTIONEN · OPEN LEARN</text>
+</svg>
