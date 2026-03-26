@@ -6,3 +6,4 @@ workshops:
     color: "270 40% 93%"
     primaryColor: "270 65% 50%"
     image: "farsi/thumbnail.svg"
+    labels: ["Language"]
