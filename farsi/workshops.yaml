@@ -3,9 +3,15 @@ workshops:
     code: de-DE
     title: "آموزش آلمانی"
     description: "۵ درس برای یادگیری مهم‌ترین کلمات و عبارات آلمانی."
+    color: "270 40% 93%"
+    primaryColor: "270 65% 50%"
+    image: "deutsch/thumbnail.svg"
     labels: ["Language"]
   - folder: english
     code: en-US
     title: "آموزش انگلیسی"
     description: "۵ درس برای یادگیری مهم‌ترین کلمات و عبارات انگلیسی."
+    color: "270 40% 93%"
+    primaryColor: "270 65% 50%"
+    image: "english/thumbnail.svg"
     labels: ["Language"]
